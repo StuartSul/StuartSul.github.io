@@ -1,4 +1,4 @@
-# StuartSul.github.io_src
+# StuartSul.github.io
 
 Source code for `StuartSul.github.io` (`stuartsul.com`).
 
