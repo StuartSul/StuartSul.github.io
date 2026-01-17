@@ -5,6 +5,9 @@ on:
     branches:
       - 'main'
 
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -17,11 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Set up Git
-        run: |
-          git config --global user.name "Stuart Sul"
-          git config --global user.email "ssstuartss@gmail.com"
+        with:
+          fetch-depth: 0
 
       - name: Build site
         id: image
@@ -29,27 +29,28 @@ jobs:
           bundle install
           bundle exec jekyll build
 
-      - name: Checkout GitHub Pages repository
+      - name: Checkout public branch
         uses: actions/checkout@v4
         with:
-          repository: StuartSul/StuartSul.github.io
-          ref: master
-          ssh-key: ${{ secrets.GP_REPO_DEPLOY_KEY }}
-          path: gh-repo
+          ref: public
+          path: public
+          fetch-depth: 0
 
       - name: Copy build artifact
         run: |
-          rm -r gh-repo/*
-          cp -R _site/* gh-repo/
+          find public -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R _site/. public/
 
       - name: Deploy site
         run: |
           COMMIT_MSG=$(git log -1 --pretty=%B)
-          cd gh-repo
-          git add .
+          cd public
+          git config user.name "Stuart Sul"
+          git config user.email "ssstuartss@gmail.com"
+          git add -A
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "${COMMIT_MSG}"
-            git push
+            git push origin public
           else
             echo "No changes to commit"
           fi
