@@ -33,4 +33,4 @@ The build artifact will be available at `./_site`.
 
 ## CI/CD
 
-This repository automatically pushes the build artifacts to a separate repository through GitHub Actions. Details available at `.github/workflows/build-deploy.yaml`.
+This repository automatically pushes the build artifacts to a separate branch (`public`) through GitHub Actions. Details available at `.github/workflows/build-deploy.yaml`.
