@@ -1,6 +1,6 @@
 Hi 👋
 
-I’m a master’s student in Computer Science at Stanford, advised by the amazing [**Chris Ré**](https://cs.stanford.edu/~chrismre/) in the [Hazy Research](https://hazyresearch.stanford.edu/) lab and supported by the Kwanjeong Scholarship. I am also a part-time Research Scientist at [**Cursor**](https://www.cursor.com/).
+I’m ~~a master’s~~ an incoming PhD student in Computer Science at Stanford, advised by the amazing [**Chris Ré**](https://cs.stanford.edu/~chrismre/) in the [Hazy Research](https://hazyresearch.stanford.edu/) lab and supported by the Kwanjeong Scholarship. I am also a part-time Research Scientist at [**Cursor**](https://www.cursor.com/).
  
 My research focuses on **ML systems**. I design hardware-aware abstractions and methods to accelerate training and inference of large language models. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles), [efficient MXFP8 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-09-22-pgl), and [ThunderKittens](https://github.com/HazyResearch/ThunderKittens).
 
@@ -107,11 +107,15 @@ A game with GUI and an AI opponent using minimax algorithm, written in native Py
 # Education
 
 ## Stanford University
-#### M.S. in Computer Science
+#### PhD in Computer Science
+* Starting Fall 2026
+
+## Stanford University
+#### MS in Computer Science
 * Recipient of the merit-based Kwanjeong scholarship ($60,000)
 
 ## Seoul National University
-#### B.S. in Computer Science and Engineering
+#### BS in Computer Science and Engineering
 * GPA: 4.21/4.3 (class rank: 1st)
 * Recipient of the National Science and Engineering Scholarship for Gifted Students (full scholarship)
 * Member of the College of Engineering Honor Society
