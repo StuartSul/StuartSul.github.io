@@ -2,7 +2,7 @@ Hi 👋
 
 I’m ~~a master’s~~ an incoming PhD student in Computer Science at Stanford, advised by the amazing [**Chris Ré**](https://cs.stanford.edu/~chrismre/) in the [Hazy Research](https://hazyresearch.stanford.edu/) lab and supported by the Kwanjeong Scholarship. I am also a part-time Research Scientist at [**Cursor**](https://www.cursor.com/).
  
-My research focuses on **ML systems**. I design hardware-aware abstractions and methods to accelerate training and inference of large language models. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles), [efficient MXFP8 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-09-22-pgl), and [ThunderKittens](https://github.com/HazyResearch/ThunderKittens).
+My research focuses on **ML systems**. I design hardware-aware abstractions and methods to accelerate training and inference of large language models. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles), [efficient MXFP8/NVFP4 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-09-22-pgl), and [ThunderKittens](https://github.com/HazyResearch/ThunderKittens).
 
 Prior to Stanford and Cursor, I co-founded [**Blux**](https://blux.ai/), an AI startup specializing in empowering Korean e-commerce through AI-driven personalization. Blux raised $3M+ and is personalizing over 10 million Korean users' online journeys monthly.
 
@@ -29,20 +29,20 @@ Blux provides real-time recommender systems for e-commerce. Blux raised $3M+ and
 
 I was the only technical co-founder until we acquired our first paying customer. I built everything (server, infrastructure, ML) from scratch. Over time, I recruited and led a team of 15+ engineers.
 
-## Research Assistant @ Seoul National University
+<!-- ## Research Assistant @ Seoul National University
 #### June 2020 - September 2020
 
-Worked with Prof. Jae W. Lee at the [Architecture and Code Optimization Lab](https://arc.snu.ac.kr/) to design and implement a novel embedding clustering algorithm in C++, reducing main memory access by up to 44% in commercial deep learning recommendation models (DLRMs). This research resulted in a paper accepted at ASPLOS 2021.
+Worked with Prof. Jae W. Lee at the [Architecture and Code Optimization Lab](https://arc.snu.ac.kr/) to design and implement a novel embedding clustering algorithm in C++, reducing main memory access by up to 44% in commercial deep learning recommendation models (DLRMs). This research resulted in a paper accepted at ASPLOS 2021. -->
 
-## Research Assistant @ Seoul National University
+<!-- ## Research Assistant @ Seoul National University
 #### December 2019 - February 2020
 
-Worked with Prof. Kyogu Lee at the [Music and Audio Research Group](https://marg.snu.ac.kr/) on audio processing architecture using CNN, cGAN, super-resolution, and the Griffin-Lim algorithm for commercial singing voice synthesis. Also performed millisecond-precision data labeling on audio and MIDI data using Logic Pro and Python for 30+ K-pop songs.
+Worked with Prof. Kyogu Lee at the [Music and Audio Research Group](https://marg.snu.ac.kr/) on audio processing architecture using CNN, cGAN, super-resolution, and the Griffin-Lim algorithm for commercial singing voice synthesis. Also performed millisecond-precision data labeling on audio and MIDI data using Logic Pro and Python for 30+ K-pop songs. -->
 
-## Sergeant, Combat Medic @ US Army
+## Sergeant @ US Army
 #### November 2017 - August 2019
 
-Served as a Combat Medic (68W) in a U.S. Army cavalry unit for 21 months through the Korean Augmentation to the United States Army (KATUSA) program, fulfilling South Korea's mandatory military service requirement.
+Served as a Combat Medic (68W) in a U.S. Army cavalry unit for 21 months through the Korean Augmentation to the United States Army (KATUSA) program.
 
 ---
 
