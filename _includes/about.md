@@ -81,6 +81,9 @@ A game with GUI and an AI opponent using minimax algorithm, written in native Py
 
 # Writing
 
+## [ThunderKittens 2.0: Even Faster Kernels for Your GPUs](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2)
+#### Hazy Research
+
 ## [Loads and Loads of Fluffy Kittens](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens)
 #### Hazy Research
 
