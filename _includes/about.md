@@ -1,8 +1,8 @@
 Hi 👋
 
-I’m ~~a master’s~~ an incoming PhD student in Computer Science at Stanford, advised by the amazing [**Chris Ré**](https://cs.stanford.edu/~chrismre/) in the [Hazy Research](https://hazyresearch.stanford.edu/) lab and supported by the Kwanjeong Scholarship. I am also a part-time Research Scientist at [**Cursor**](https://www.cursor.com/).
+I'm a PhD student in Computer Science at Stanford, advised by the amazing [**Chris Ré**](https://cs.stanford.edu/~chrismre/) as part of [Hazy Research](https://hazyresearch.stanford.edu/) and the [Stanford AI Lab](https://ai.stanford.edu/). I'm also a part-time Research Scientist at [**Cursor**](https://www.cursor.com/).
  
-My research focuses on **ML systems**. I design hardware-aware abstractions and methods to accelerate training and inference of large language models. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles), [efficient MXFP8/NVFP4 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-09-22-pgl), and [ThunderKittens](https://github.com/HazyResearch/ThunderKittens).
+My research focuses on **ML systems**. I design hardware-aware algorithms and abstractions to accelerate training and inference of AI models. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main), [efficient MXFP8/NVFP4 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens), and [ThunderKittens](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2).
 
 Prior to Stanford and Cursor, I co-founded [**Blux**](https://blux.ai/), an AI startup specializing in empowering Korean e-commerce through AI-driven personalization. Blux raised $3M+ and is personalizing over 10 million Korean users' online journeys monthly.
 
@@ -15,7 +15,7 @@ In addition, I am an electric guitarist and composer. I have released two albums
 ## Research Scientist @ Cursor
 #### June 2025 - Present
 
-Building in-house models and optimizing AI kernels for large-scale training and inference. Check out my [recent blog post on MXFP8 MoE kernels](https://cursor.com/blog/kernels).
+Building in-house models and optimizing AI kernels for large-scale training and inference. Check out my [blog post on MXFP8 MoE kernels](https://cursor.com/blog/kernels).
 
 ## Research Assistant @ Stanford AI Lab
 #### December 2024 - Present
@@ -52,7 +52,7 @@ Served as a Combat Medic (68W) in a U.S. Army cavalry unit for 21 months through
 Runs FlashMLA, Llama 3 1B, and Llama 3 70B in a single fused megakernel. 600+ stars on GitHub.
 
 ## [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
-Helps you write speedy GPU kernels for AI. 3,100+ stars on GitHub and adopted by Cursor, Together AI, Jump Trading, Modular, TileLang, and Nvidia CuTe 4.0.
+Helps you write speedy GPU kernels for AI. 3,300+ stars on GitHub and adopted by Cursor, Together AI, Jump Trading, Modular, TileLang, and Nvidia CuTe 4.0.
 
 ## [MERCI](https://github.com/SNU-ARC/MERCI)
 Fast embedding reduction algorithm for deep learning recommendation models (DLRMs) and other systems with very large embedding tables.
@@ -111,7 +111,6 @@ A game with GUI and an AI opponent using minimax algorithm, written in native Py
 
 ## Stanford University
 #### PhD in Computer Science
-* Starting Fall 2026
 
 ## Stanford University
 #### MS in Computer Science
