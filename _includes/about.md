@@ -15,10 +15,10 @@ In addition, I am an electric guitarist and composer. I have released two albums
 ## Research Scientist @ Cursor
 #### June 2025 - Present
 
-Building in-house models and optimizing AI kernels for large-scale training and inference. Check out my [blog post on MXFP8 MoE kernels](https://cursor.com/blog/kernels).
+Building Composer and optimizing AI kernels for large-scale training and inference. Check out my [blog post on MXFP8 MoE kernels](https://cursor.com/blog/kernels).
 
 ## Research Assistant @ Stanford AI Lab
-#### December 2024 - Present
+#### September 2024 - Present
 
 Advised by Prof. Chris Ré at [Hazy Research](https://hazyresearch.stanford.edu/). Working on [ThunderKittens](https://github.com/HazyResearch/ThunderKittens), [low-latency megakernel](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles), [high-throughput megakernel](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main) and [GPU networking](https://hazyresearch.stanford.edu/blog/2025-09-22-pgl).
 
@@ -81,29 +81,32 @@ A game with GUI and an AI opponent using minimax algorithm, written in native Py
 
 # Writing
 
+## [Composer 2 Technical Report](https://arxiv.org/abs/2603.24477)
+#### Cursor, Mar 2026
+
 ## [ThunderKittens 2.0: Even Faster Kernels for Your GPUs](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2)
-#### Hazy Research
+#### Hazy Research, Feb 2026
 
 ## [Loads and Loads of Fluffy Kittens](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens)
-#### Hazy Research
+#### Hazy Research, Nov 2025
 
 ## [ParallelKittens: Simple and Fast Multi-GPU AI Kernels](https://hazyresearch.stanford.edu/blog/2025-11-17-pk)
-#### Hazy Research
+#### Hazy Research, Nov 2025
 
 ## [We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
-#### Hazy Research
+#### Hazy Research, Sep 2025
 
 ## [How Many Llamas Can Dance in the Span of a Kernel?](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-intro)
-#### Hazy Research
+#### Hazy Research, Sep 2025
 
 ## [One Kernel for All Your GPUs](https://hazyresearch.stanford.edu/blog/2025-09-22-pgl)
-#### Hazy Research
+#### Hazy Research, Sep 2025
 
 ## [1.5x Faster MoE Training with Custom MXFP8 Kernels Built From Scratch](https://cursor.com/blog/kernels)
-#### Cursor
+#### Cursor, Aug 2025
 
 ## [Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
-#### Hazy Research
+#### Hazy Research, May 2025
 
 ---
 
@@ -111,10 +114,12 @@ A game with GUI and an AI opponent using minimax algorithm, written in native Py
 
 ## Stanford University
 #### PhD in Computer Science
+* Advisor: Chris Ré
 
 ## Stanford University
 #### MS in Computer Science
-* Recipient of the merit-based Kwanjeong scholarship ($60,000)
+* Advisor: Chris Ré
+* Funded by Kwanjeong scholarship
 
 ## Seoul National University
 #### BS in Computer Science and Engineering
