@@ -1,10 +1,10 @@
 Hi 👋
 
-I'm a PhD student in Computer Science at Stanford, advised by the amazing [**Chris Ré**](https://cs.stanford.edu/~chrismre/) as part of [Hazy Research](https://hazyresearch.stanford.edu/) and the [Stanford AI Lab](https://ai.stanford.edu/). I'm also a part-time Research Scientist at [**Cursor**](https://www.cursor.com/).
+I'm a PhD student in Computer Science at **Stanford**, advised by the amazing [Chris Ré](https://cs.stanford.edu/~chrismre/) as part of [Hazy Research](https://hazyresearch.stanford.edu/) and the [Stanford AI Lab](https://ai.stanford.edu/). I'm also an ML researcher at [**Cursor**](https://www.cursor.com/).
  
-My research focuses on **ML systems**. I design hardware-aware algorithms and abstractions to accelerate training and inference of AI models. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main), [efficient MXFP8/NVFP4 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens), and [ThunderKittens](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2).
+My research focuses on **ML systems**. I design hardware-aware algorithms and abstractions to accelerate AI model training and inference. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main), [efficient MXFP8/NVFP4 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens), and [ThunderKittens](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2).
 
-Prior to Stanford and Cursor, I co-founded [**Blux**](https://blux.ai/), an AI startup specializing in empowering Korean e-commerce through AI-driven personalization. Blux raised $3M+ and is personalizing over 10 million Korean users' online journeys monthly.
+Prior to Stanford and Cursor, I co-founded [**Blux**](https://blux.ai/), an AI B2B startup specializing in empowering Korean e-commerce through AI-driven personalization. Blux raised $3M+ and is personalizing over 10 million Korean users' online journeys monthly.
 
 In addition, I am an electric guitarist and composer. I have released two albums and performed as lead guitarist and producer for multiple rock bands since 2008.
 
