@@ -1,6 +1,6 @@
 Hi 👋
 
-I'm a PhD student in Computer Science at **Stanford**, advised by the amazing [Chris Ré](https://cs.stanford.edu/~chrismre/) as part of [Hazy Research](https://hazyresearch.stanford.edu/) and the [Stanford AI Lab](https://ai.stanford.edu/). I'm also an ML researcher at [**Cursor**](https://www.cursor.com/).
+I'm a PhD student in Computer Science at **Stanford**, advised by the amazing [Chris Ré](https://cs.stanford.edu/~chrismre/) as part of [Hazy Research](https://hazyresearch.stanford.edu/) and the [Stanford AI Lab](https://ai.stanford.edu/). I'm also an ML researcher at [**Cursor**](https://www.cursor.com/home).
  
 My research focuses on **ML systems**. I design hardware-aware algorithms and abstractions to accelerate AI model training and inference. Some of my work includes [megakernels](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main), [efficient MXFP8/NVFP4 training](https://cursor.com/blog/kernels), [GPU networking](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens), and [ThunderKittens](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2).
 
