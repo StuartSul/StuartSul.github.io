@@ -58,7 +58,7 @@ Served as a Combat Medic (68W) in a U.S. Army cavalry unit for 21 months through
 
 ---
 
-# Blog
+# Writing
 
 * [**Mixture-of-Kittens: our open-source MoE megakernel for NVL72s**](https://cursor.com/blog/mixture-of-kittens) (Aug 2026)
 * [**ThunderKittens 2.0: Even Faster Kernels for Your GPUs**](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2) (Feb 2026)
