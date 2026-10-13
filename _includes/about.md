@@ -75,7 +75,7 @@ Served as a Combat Medic (68W) in a U.S. Army cavalry unit for 21 months through
 
 # Open Source
 
-* [**Mixture-of-Kittens**](https://github.com/cursor/mixture-of-kittens) (New): Mixture-of-experts training megakernel for NVL72s.
+* [**Mixture-of-Kittens**](https://github.com/cursor/mixture-of-kittens) (600+ stars): Mixture-of-experts training megakernel for NVL72s.
 * [**ThunderKittens/ParallelKittens**](https://github.com/HazyResearch/ThunderKittens) (3,600+ stars): Tile primitives for fast AI kernels. Adopted by Cursor, Together AI, Jump Trading, Modular, TileLang, and Nvidia CuTe 4.0.
 * [**Megakernels**](https://github.com/HazyResearch/Megakernels) (700+ stars): Framework for running an entire LLM as a single fused GPU kernel ("megakernel"). Includes implementations of FlashMLA, Llama 3 1B, and 8-GPU Llama 3 70B.
 * [**GPU Experiments**](https://github.com/StuartSul/gpu-experiments): A collection of GPU experiments and benchmarks that I use for my personal understanding and research.
