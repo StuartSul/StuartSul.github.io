@@ -76,8 +76,8 @@ Served as a Combat Medic (68W) in a U.S. Army cavalry unit for 21 months through
 # Open Source
 
 * [**Mixture-of-Kittens**](https://github.com/cursor/mixture-of-kittens) (600+ stars): Mixture-of-experts training megakernel for NVL72s.
-* [**ThunderKittens/ParallelKittens**](https://github.com/HazyResearch/ThunderKittens) (3,600+ stars): Tile primitives for fast AI kernels. Adopted by Cursor, Together AI, Jump Trading, Modular, TileLang, and Nvidia CuTe 4.0.
-* [**Megakernels**](https://github.com/HazyResearch/Megakernels) (700+ stars): Framework for running an entire LLM as a single fused GPU kernel ("megakernel"). Includes implementations of FlashMLA, Llama 3 1B, and 8-GPU Llama 3 70B.
+* [**ThunderKittens/ParallelKittens**](https://github.com/HazyResearch/ThunderKittens) (3,700+ stars): Tile primitives for fast AI kernels. Adopted by Cursor, Together AI, Jump Trading, Modular, TileLang, and Nvidia CuTe 4.0.
+* [**Megakernels**](https://github.com/HazyResearch/Megakernels) (800+ stars): Framework for running an entire LLM as a single fused GPU kernel ("megakernel"). Includes implementations of FlashMLA, Llama 3 1B, and 8-GPU Llama 3 70B.
 * [**GPU Experiments**](https://github.com/StuartSul/gpu-experiments): A collection of GPU experiments and benchmarks that I use for my personal understanding and research.
 * [**MERCI**](https://github.com/SNU-ARC/MERCI): Fast embedding reduction algorithm for deep learning recommendation models (DLRMs) and other systems with very large embedding tables.
 * [**ELF32 Dynamic Linker for Raspberry Pi**](https://github.com/StuartSul/elf32-dynamic-linker-rpi): ELF dynamic linker on bare metal, allowing you to port shared libraries. It is taught as a lab at Stanford: [CS 240LX: ELF and Dynamic Linker](https://github.com/dddrrreee/cs240lx-25spr/tree/main/labs/15-elf-dynamic-linker).
